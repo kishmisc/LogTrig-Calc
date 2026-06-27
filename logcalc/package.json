@@ -2,7 +2,7 @@
   "name": "logcalc",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/kishmisc/LogTrig-Calc",
+  "homepage": "https://github.io/kishmisc/LogTrig-Calc",
   "type": "module",
   "scripts": {
     "dev": "vite",
